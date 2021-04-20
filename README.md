@@ -10,5 +10,7 @@ An example of the <a href="https://education.maps.arcgis.com/home/item.html?id=6
 - total_correct [integer]
 - percent_correct [string]
 
-Survey must have eight questions, the labels must be Q1 - Q8.
+The Creator field must be set to editable (this allows teacher username to be written to Creator - thereby allowing teacher to see/download only their (students') data.
+
+Survey must have eight questions, the labels must be Q1 - Q8. The correct option must have a value of 'a'.
 
